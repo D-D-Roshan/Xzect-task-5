@@ -22,11 +22,11 @@ Welcome to the Appspery Website Clone repository! This project is a clone of the
 
  **Clone the repository**:
  
-    git clone https://github.com/yourusername/appspery-website-clone.git
+    git clone https://github.com/D-D-Roshan/Xzent-task-5
 
 
 ## Screenshots
-![Home Page]()
+![Home Page](https://github.com/D-D-Roshan/Xzent-task-5/blob/main/Sample%20images/Screenshot%20(18).png)
 
 
 
