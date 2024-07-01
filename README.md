@@ -21,13 +21,12 @@ Welcome to the Appspery Website Clone repository! This project is a clone of the
 ## Installation
 
  **Clone the repository**:
-    ```sh
+ 
     git clone https://github.com/yourusername/appspery-website-clone.git
 
-    ```
 
-
-
+## Screenshots
+![Home Page]()
 
 
 
