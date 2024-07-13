@@ -3,10 +3,11 @@
 
 ---
 
-## Appspery Website Clone
+## Nexa Analytics
 
 ## Introduction
-Welcome to the Appspery Website Clone repository! This project is a clone of the popular Appspery website, built to replicate its features and design. The clone aims to provide a comprehensive example of how to build a modern, responsive, and feature-rich website using the latest web development technologies.
+Welcome to the Nexa Analytics! This project is a clone of the popular [Appspery website](https://themes.themesbrand.com/appspery/react/)
+, built to replicate its features and design. The clone aims to provide a comprehensive example of how to build a modern, responsive, and feature-rich website using the latest web development technologies.
 
 
 ## Technologies Used
@@ -26,7 +27,7 @@ Welcome to the Appspery Website Clone repository! This project is a clone of the
 
 
 ## Screenshots
-![Home Page](https://github.com/D-D-Roshan/Xzent-task-5/blob/main/Sample%20images/Screenshot%20(18).png)
+![Home Page]()
 
 
 
