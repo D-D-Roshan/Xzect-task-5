@@ -27,8 +27,12 @@ Welcome to the Nexa Analytics! This project is a clone of the popular [Appspery 
 
 
 ## Screenshots
-![Home Page]()
+![Sign Up](https://github.com/D-D-Roshan/Xzect-task-5/blob/main/images/sample%20images/Screenshot%20(50).png)
+![Sign in](https://github.com/D-D-Roshan/Xzect-task-5/blob/main/images/sample%20images/Screenshot%20(49).png)
+![Home Page](https://github.com/D-D-Roshan/Xzect-task-5/blob/main/images/sample%20images/Screenshot%20(46).png)
 
+## Demo
+see live demo of the website[demo](https://nexa-analytics.netlify.app/)
 
 
 ## Contact
